@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117457052333",
+    "firebase_url": "https://sociallogin-4f104.firebaseio.com",
+    "project_id": "sociallogin-4f104",
+    "storage_bucket": "sociallogin-4f104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117457052333:android:e2c59a8bb1316f0e4c9c24",
+        "android_client_info": {
+          "package_name": "com.bluetech.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117457052333-5sdiv8veur9jar346ifgn8bph3erhg0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_oR7aZfT6BYT-eRhMGT83zPDU5WZK60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117457052333-5sdiv8veur9jar346ifgn8bph3erhg0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
